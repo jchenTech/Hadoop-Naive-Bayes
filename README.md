@@ -1,6 +1,6 @@
 # 基于Hadoop的朴素贝叶斯分类(MapReduce实现)
 
-该项目为Hadoop课程项目，基于MapReduce设计朴素贝叶斯文本分类器，并评估分类结果。具体的项目分析与报告内容见：
+该项目为Hadoop课程项目，基于MapReduce设计朴素贝叶斯文本分类器，并评估分类结果。具体的项目分析与报告内容见：https://github.com/jchenTech/Hadoop-Naive-Bayes/tree/main/report
 
 以下简单介绍项目内容与运行说明：
 
