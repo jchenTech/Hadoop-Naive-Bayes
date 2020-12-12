@@ -1,0 +1,14 @@
+industrials
+2790.10
+27.29
+utilities
+2686.55
+12.32
+banks
+4507.81
+0
+portfolio
+2932.71
+7.97
+volume
+20991939

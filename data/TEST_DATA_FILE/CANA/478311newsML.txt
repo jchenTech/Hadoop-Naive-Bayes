@@ -1,0 +1,16 @@
+results
+national
+hockeyleague
+games
+monday
+home
+team
+caps
+pittsburgh
+4
+florida
+3
+dallas
+3
+edmonton
+1
